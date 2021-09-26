@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>thuốc và men vi sinh &#8211; Shop Thủy Sinh</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-tag/thuoc-va-men-vi-sinh/feed/" rel="self" type="application/rss+xml" />
+	<link>https://trung75951.github.io/mywordpress</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 Sep 2021 14:14:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Phân nước thủy sinh Liquid 2 giúp cây ra rễ ổn định</title>
+		<link>https://trung75951.github.io/mywordpress/product/phan-nuoc-thuy-sinh-liquid-2-giup-cay-ra-re-on-dinh/</link>
+					<comments>https://trung75951.github.io/mywordpress/product/phan-nuoc-thuy-sinh-liquid-2-giup-cay-ra-re-on-dinh/#respond</comments>
+		
+		<dc:creator><![CDATA[tuphuoctrung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 14:14:54 +0000</pubDate>
+				<guid isPermaLink="false">https://trung75951.github.io/mywordpress/?post_type=product&#038;p=1766</guid>
+
+					<description><![CDATA[Phân nước thủy sinh Liquid 2 là một sản phẩm của công ty Thủy Mộc, bộ sản phẩm phân nước này giúp kích thích các loài cây thủy sinh ra rễ đều và đẹp, từ đó giúp cây khỏe mạnh và cải thiện màu sắc. P]]></description>
+		
+					<wfw:commentRss>https://trung75951.github.io/mywordpress/product/phan-nuoc-thuy-sinh-liquid-2-giup-cay-ra-re-on-dinh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pristine Seachem vi khuẩn có lợi chuyên xử lý mùn hữu cơ</title>
+		<link>https://trung75951.github.io/mywordpress/product/pristine-seachem-vi-khuan-co-loi-chuyen-xu-ly-mun-huu-co/</link>
+					<comments>https://trung75951.github.io/mywordpress/product/pristine-seachem-vi-khuan-co-loi-chuyen-xu-ly-mun-huu-co/#respond</comments>
+		
+		<dc:creator><![CDATA[tuphuoctrung]]></dc:creator>
+		<pubDate>Sat, 25 Sep 2021 09:47:40 +0000</pubDate>
+				<guid isPermaLink="false">https://trung75951.github.io/mywordpress/?post_type=product&#038;p=1676</guid>
+
+					<description><![CDATA[Pristine Seachem là dạng vi khuẩn có lợi cho nguồn nước nuôi trồng thủy sinh và cá cảnh, chúng có nhiệm vụ xử lý các chất mùn hữu cơ tồn đọng bám cững ở các khu vực góc khuất của hồ.]]></description>
+		
+					<wfw:commentRss>https://trung75951.github.io/mywordpress/product/pristine-seachem-vi-khuan-co-loi-chuyen-xu-ly-mun-huu-co/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
