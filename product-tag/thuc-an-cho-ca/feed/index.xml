@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/thuc-an-cho-ca/feed/" rel="self" type="application/rss+xml" />
 	<link>https://trung75951.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 04:00:49 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 29 Sep 2021 00:49:19 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
+		<title>Thức ăn viên dán cho cá cảnh (SP_ao)</title>
+		<link>https://trung75951.github.io/mywordpress/product/thuc-an-vien-dan-cho-ca-canh-sp_ao/</link>
+					<comments>https://trung75951.github.io/mywordpress/product/thuc-an-vien-dan-cho-ca-canh-sp_ao/#respond</comments>
+		
+		<dc:creator><![CDATA[tuphuoctrung]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 00:48:31 +0000</pubDate>
+				<guid isPermaLink="false">https://trung75951.github.io/mywordpress/?post_type=product&#038;p=1819</guid>
+
+					<description><![CDATA[JBL NOVO TAB là dạng thức ăn cho cá cảnh có hình dạng viên thuốc nén, có thể dán lên trên mặt kính hoặc thả xuống đáy phù hợp với nhiều dòng cá cảnh khác nhau.]]></description>
+		
+					<wfw:commentRss>https://trung75951.github.io/mywordpress/product/thuc-an-vien-dan-cho-ca-canh-sp_ao/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Thức ăn viên dán cho cá cảnh JBL NOVO</title>
 		<link>https://trung75951.github.io/mywordpress/product/thuc-an-vien-dan-cho-ca-canh-jbl-novo/</link>
 					<comments>https://trung75951.github.io/mywordpress/product/thuc-an-vien-dan-cho-ca-canh-jbl-novo/#respond</comments>
